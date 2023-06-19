@@ -43,9 +43,7 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  HELLO!! This is Kim Sumi's blog. Come and see my history and big goal.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -153,12 +151,12 @@ yat:
 #   - tags.html
 #   - about.md
 
-Page default value
+#Page default value
 defaults:
   home:
     heading: "Welcome to my blog"
     subheading: "with my dreams"
-    banner: "Your image url"
+    banner: ""https://player.vimeo.com/api/player.js""
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
