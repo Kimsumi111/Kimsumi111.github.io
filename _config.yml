@@ -153,11 +153,11 @@ yat:
 #   - about.md
 
 #Page default value
-defaults:
-  home:
-    heading: "Welcome!"
-    subheading: "with my dreams"
-    banner: ""https://player.vimeo.com/api/player.js""
+#defaults:
+#  home:
+#    heading: "Welcome!"
+#    subheading: "with my dreams"
+#    banner: ""https://player.vimeo.com/api/player.js""
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
